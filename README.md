@@ -20,4 +20,4 @@ My environment:
 
 Python 3.9.13
 
-windows 11 64位 22000.978
+windows 11 64 22000.978
