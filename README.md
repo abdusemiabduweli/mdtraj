@@ -1,5 +1,4 @@
-# mdtraj
- MDtraj python library for Python 3.9.13
+# MDtraj python library for Python 3.9.13
 
 
 我使用pip install mdtraj安装mdtraj时，遇到了不少麻烦。但经过挣扎，最后成功了。
